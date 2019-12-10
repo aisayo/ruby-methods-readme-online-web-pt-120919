@@ -18,6 +18,8 @@ def say_hello_world_ten_times
   
 end 
 
+say_hello_world_ten_times
+
 
 
 #printing strings:
