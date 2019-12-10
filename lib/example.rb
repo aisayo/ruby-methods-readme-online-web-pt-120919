@@ -4,7 +4,8 @@
 
 def say_hello_world_ten_times
   phrase = "hello world"
-  puts 
+  puts phrase
+  
   
 
   
@@ -14,6 +15,6 @@ end
 
 #printing strings:
 
- #puts 
+ #puts - creates a break between lines
  
- #print 
+ #print - print on everything on one line
