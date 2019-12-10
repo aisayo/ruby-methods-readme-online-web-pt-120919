@@ -20,8 +20,3 @@ say_hello_world_ten_times
 
 
 
-#printing strings:
-
- #puts - creates a break between lines
- 
- #print - print on everything on one line
