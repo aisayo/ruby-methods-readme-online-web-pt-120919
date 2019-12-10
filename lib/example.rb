@@ -8,6 +8,3 @@
 #integers 
 
 
-def print_array 
-  example_array = [0,1,2]
-end 
