@@ -20,3 +20,4 @@ end
 say_hello_world_ten_times
 
 
+undefined local variable or method `phrase' for main:Object (NameError)
