@@ -8,12 +8,3 @@
 #integers 
 
 
-def second_example
-  
-  puts "this is the second one"
-  
-end 
-
-
-
-second_example
